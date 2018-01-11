@@ -11,8 +11,8 @@ to list all tasks:
 
 To view the Booking search (after starting the application) go to:
 
-[http://localhost:9000/travel/index.html](http://localhost:9000/travel/index.html)
+[http://localhost:8000/travel/index.html](http://localhost:9000/travel/index.html)
 
 To view the consolidate Metric Data go to :
 
-[http://localhost:9000/travel/metrics.html](http://localhost:9000/travel/metrics.html)
+[http://localhost:8000/travel/metrics.html](http://localhost:9000/travel/metrics.html)
