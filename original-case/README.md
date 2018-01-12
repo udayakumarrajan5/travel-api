@@ -16,3 +16,12 @@ To view the Booking search (after starting the application) go to:
 To view the consolidate Metric Data go to :
 
 [http://localhost:8000/travel/metrics.html](http://localhost:8000/travel/metrics.html)
+
+To update the port number go to :
+
+[ /resources/application.yml
+
+once its updated, please update in the following file before start the server
+
+/resources/static/index.html
+/resources/static/metrics.html ]
