@@ -63,7 +63,7 @@ xmlhttp.onreadystatechange = function() {
         document.getElementById("demo").innerHTML = txt;
     }
 };
-xmlhttp.open("GET", "http://localhost:8000/travel/status-metric", true);
+xmlhttp.open("GET", "/travel/status-metric", true);
 xmlhttp.setRequestHeader("Content-type", "application/json");
 xmlhttp.send("x=" + dbParam);
 
